@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_560e7feed61b5a666cb5a66457bcf0dccb0df2e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_f8d5bd75517f97d17b94d44ef872130b5f10667e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_0fea99b39c871707447e395083be9a228d29a7ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c5ecc58d256c77373a84b9db88c75b65c7c7c965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_60f418e7008d287cac60d806cbceeadc5dbca535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d00a62f4ab3ab34ceda06d7b8113e498c13209a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_3c4974a35553c22bb9a53a9e7b3dae3cdc193c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_586dfd235e0b65e88bd99e27f1eda0c5e08417d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.3.1_078a39082a25a87f927c4e22e08610b8ac1c3cef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_414f07f42959468216d5f8c88d42077f81201c53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="921b1c4306b10e7de53574523eb7f7144bd0707f">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-5.4.1_434ee6f065186bf6aac102485df818a2a8c3060a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9bb39432c95153a221d81bdce96bdd0d88d226ea">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b52b8c5ba52a5c4f86528893f3d5f3cdf0cc2838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_7ac7957474eb54db98cebe2c21349b16a4376d6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_faf9b8b22a1d9ba7777a054af12df334fb1e7f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_3187a6cb07468c2033a1296d4751604d56c3574f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2f27c3661235c733562201e26c70415c47431a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.4\89e9725439adffbbd41c5f5c215c136082b34a7f\joda-time-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89e9725439adffbbd41c5f5c215c136082b34a7f">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.4_47629f5e143b49a1874c2037b470d8bf259fe755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_b7de73f2a674cab89e0e6eb0b267e0679fb9aef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.1_8432c1e94dca62294ec7696e0536f0a538cbe62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_0aeaec5ecc5c1e80c643f759143ff38d894dbcb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_4db0d017ac56052b741fef424d776169261669cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_81bd165ab329a66894230f5910a62e8685840da8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_219cf82399577c0c05b7d918338fadc552594c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c65b21b2c58151afe9c22667e88e9d05e854156">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6db04098f5281295eeb3361aade773082f8c0869\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\libs\Jama-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e7b3b81770450a21b4295e27c2ccb802ab537e1">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\2\Jama-1.0.3_bf319362394133992945416c87eeb48b7e44a86a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_8d6ce30c9e8f1ab6e56b5e8cc82f599be7828094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_e3d449f4ba7b14d5330682a6854bb2b76a4edc81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_bae2c62b367c93644a9c3443def8e7736a5bb954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_3ed9fe4a156b1c1e562708132fe6a52b5b93b83c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\varun\Desktop\studies\mobile\Expense Tracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7a75e070b6660ce47b40f62db31e8607195ee654\classes.dex" />
+    </item>
+
+</items>
